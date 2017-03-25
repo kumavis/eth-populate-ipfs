@@ -9,7 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "async": "^2.1.4",
+    "async": "^2.2.0",
     "cids": "^0.3.4",
     "ethereumjs-util": "^5.0.1",
     "ipfs-block": "^0.5.1",
