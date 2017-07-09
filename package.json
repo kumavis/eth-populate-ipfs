@@ -13,7 +13,7 @@
     "cids": "^0.3.4",
     "ethereumjs-util": "^5.0.1",
     "ipfs-block": "^0.5.1",
-    "ipld-eth-block": "^2.0.3",
+    "ipld-eth-block": "^2.3.0",
     "request": "^2.79.0",
     "rlp": "^2.0.0",
     "ipfs": "ipfs/js-ipfs#29bf12e2d1c8ed80559cc7d3d46a3be2fd11b931",
